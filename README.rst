@@ -37,7 +37,7 @@ To get started, initialize the `Brewify` class with your API key:
 
     from brewify import Brewify
 
-    brewify = Brewify(api_key="YOUR_API_KEY")
+    brewify = Brewify("YOUR_API_KEY")
 
 ### Example Methods
 
@@ -46,7 +46,7 @@ To get started, initialize the `Brewify` class with your API key:
 .. code-block:: python
 
     image_response = brewify.get_google_image(query="cats")
-    print(image_response)
+    print(image_response.link)
 
 #### Search Google
 

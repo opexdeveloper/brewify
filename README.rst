@@ -4,6 +4,8 @@ Brewify
 .. image:: https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/python.svg
    :alt: Python Icon
    :align: center
+   :height: 50px  ; Adjust the height as needed
+   :width: 50px   ; Adjust the width as needed
 
 Brewify is a Python library that provides a simple interface to interact with various APIs, including Google Search, IMDb, Discord, and more. It is designed to be easy to use while allowing you to extend its functionality.
 
@@ -29,7 +31,7 @@ You can install Brewify via pip:
 Usage
 -----
 
-### Initialize the Brewify Class
+**Initialize the Brewify Class**
 
 To get started, initialize the `Brewify` class with your API key:
 
@@ -37,51 +39,51 @@ To get started, initialize the `Brewify` class with your API key:
 
     from brewify import Brewify
 
-    brewify = Brewify("YOUR_API_KEY")
+    brewify = Brewify(api_key="YOUR_API_KEY")
 
-### Example Methods
+**Example Methods**
 
-#### Get Google Images
+*Get Google Images*
 
 .. code-block:: python
 
     image_response = brewify.get_google_image(query="cats")
-    print(image_response.link)
+    print(image_response)
 
-#### Search Google
+*Search Google*
 
 .. code-block:: python
 
     text_response = brewify.search_google(query="Python programming")
     print(text_response)
 
-#### IMDb Search
+*IMDb Search*
 
 .. code-block:: python
 
     imdb_response = brewify.imdb_search(query="Inception")
     print(imdb_response)
 
-#### Discord Guild Search
+*Discord Guild Search*
 
 .. code-block:: python
 
     guild_response = brewify.discord_guild_search(invite_code="your_invite_code")
-    print(guild_response.name)
+    print(guild_response)
 
-#### Sentiment Analysis
+*Sentiment Analysis*
 
 .. code-block:: python
 
     sentiment_response = brewify.sentiment_analysis(sentence="I love Python!")
-    print(sentiment_response.positive)
+    print(sentiment_response)
 
-#### Get a Joke
+*Get a Joke*
 
 .. code-block:: python
 
     joke_response = brewify.joke()
-    print(joke_response.response.setup, joke_response.punchline)
+    print(joke_response)
 
 Error Handling
 --------------
@@ -108,10 +110,14 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 .. image:: https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/fastapi.svg
    :alt: FastAPI Icon
    :align: center
+   :height: 50px  ; Adjust the height as needed
+   :width: 50px   ; Adjust the width as needed
 
 .. image:: https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/pypi.svg
    :alt: PyPI Icon
    :align: center
+   :height: 50px  ; Adjust the height as needed
+   :width: 50px   ; Adjust the width as needed
 
 Acknowledgments
 ---------------

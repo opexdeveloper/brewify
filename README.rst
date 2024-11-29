@@ -4,8 +4,8 @@ Brewify
 .. image:: https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/python.svg
    :alt: Python Icon
    :align: center
-   :height: 50px  ; Adjust the height as needed
-   :width: 50px   ; Adjust the width as needed
+   :height: 50px  
+   :width: 50px   
 
 Brewify is a Python library that provides a simple interface to interact with various APIs, including Google Search, IMDb, Discord, and more. It is designed to be easy to use while allowing you to extend its functionality.
 
@@ -110,14 +110,14 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 .. image:: https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/fastapi.svg
    :alt: FastAPI Icon
    :align: center
-   :height: 50px  ; Adjust the height as needed
-   :width: 50px   ; Adjust the width as needed
+   :height: 50px  
+   :width: 50px   
 
 .. image:: https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/pypi.svg
    :alt: PyPI Icon
    :align: center
-   :height: 50px  ; Adjust the height as needed
-   :width: 50px   ; Adjust the width as needed
+   :height: 50px  
+   :width: 50px   
 
 Acknowledgments
 ---------------

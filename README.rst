@@ -67,21 +67,21 @@ To get started, initialize the `Brewify` class with your API key:
 .. code-block:: python
 
     guild_response = brewify.discord_guild_search(invite_code="your_invite_code")
-    print(guild_response)
+    print(guild_response.name)
 
 #### Sentiment Analysis
 
 .. code-block:: python
 
     sentiment_response = brewify.sentiment_analysis(sentence="I love Python!")
-    print(sentiment_response)
+    print(sentiment_response.positive)
 
 #### Get a Joke
 
 .. code-block:: python
 
     joke_response = brewify.joke()
-    print(joke_response)
+    print(joke_response.response.setup, joke_response.punchline)
 
 Error Handling
 --------------

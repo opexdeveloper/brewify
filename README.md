@@ -106,11 +106,11 @@ This project is licensed under the MIT License - see the
 
 Dependencies \-\-\-\--
 
-![Python Icon](https://cdn.simpleicons.org/python/cyan)
+![Python(https://cdn.simpleicons.org/python/cyan)
 
-![FastAPI Icon](https://cdn.simpleicons.org/fastapi/cyan)
+![FastAPI](https://cdn.simpleicons.org/fastapi/cyan)
 
-![PyPI Icon](https://cdn.simpleicons.org/pypi/cyan)
+![PyPI](https://cdn.simpleicons.org/pypi/cyan)
 ## Acknowledgments
 
 -   Thanks to the developers of the APIs used in this library.

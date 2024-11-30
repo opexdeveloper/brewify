@@ -1,4 +1,4 @@
 from .core import Brewify, Brexception
-from .models import *
+from .classes import *
 
 __all__ = ['Brewify', 'Brexception']

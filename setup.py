@@ -10,6 +10,7 @@ setup(
     keywords=['discord', 'utility', 'socials', 'info', 'api', 'wrapper'],
     description="A Python library for interacting with various APIs including Google Search, IMDb, and Discord.",
     long_description=open("README.md").read(),
+    long_description_content_type="text/markdown",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",  

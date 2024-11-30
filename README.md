@@ -1,7 +1,6 @@
 # Brewify
 
-![Brew](https://images-ext-1.discordapp.net/external/qG41hZHbsmNVc9WSE6aX3oVWi_LP39dQZjxZgdIdFLI/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/1076140187471593492/bfea312390b3b52773f1358457d7261b.png?format=webp&quality=lossless&width=427&height=427){width="50px"
-height="50px"}
+![Brew](https://images-ext-1.discordapp.net/external/qG41hZHbsmNVc9WSE6aX3oVWi_LP39dQZjxZgdIdFLI/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/1076140187471593492/bfea312390b3b52773f1358457d7261b.png?format=webp&quality=lossless&width=427&height=427)
 
 Brewify is a Python library that provides a simple interface to interact
 with various APIs, including Google Search, IMDb, Discord, and more. It
@@ -107,15 +106,11 @@ This project is licensed under the MIT License - see the
 
 Dependencies \-\-\-\--
 
-[![Python Icon](https://cdn.simpleicons.org/python/cyan){.align-center
-width="50px" height="50px"}](_blank)
+![Python Icon](https://cdn.simpleicons.org/python/cyan)
 
-[![FastAPI Icon](https://cdn.simpleicons.org/fastapi/cyan){.align-center
-width="50px" height="50px"}](_blank)
+![FastAPI Icon](https://cdn.simpleicons.org/fastapi/cyan)
 
-[![PyPI Icon](https://cdn.simpleicons.org/pypi/cyan){.align-center
-width="50px" height="50px"}](_blank)
-
+![PyPI Icon](https://cdn.simpleicons.org/pypi/cyan)
 ## Acknowledgments
 
 -   Thanks to the developers of the APIs used in this library.

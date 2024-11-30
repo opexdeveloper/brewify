@@ -106,7 +106,7 @@ License
 
 This project is licensed under the MIT License - see the `LICENSE` file for details.
 
-Icons
+Dependencies
 -----
 
 .. image:: https://cdn.simpleicons.org/python/cyan
@@ -116,7 +116,7 @@ Icons
    :align: center
    :target: _blank
 
-&nbsp;&nbsp;&nbsp;&nbsp;  
+ 
 
 .. image:: https://cdn.simpleicons.org/fastapi/cyan
    :alt: FastAPI Icon
@@ -125,7 +125,7 @@ Icons
    :align: center
    :target: _blank
 
-&nbsp;&nbsp;&nbsp;&nbsp;  
+
 
 .. image:: https://cdn.simpleicons.org/pypi/cyan
    :alt: PyPI Icon

@@ -5,12 +5,11 @@ setup(
     version="0.1.0",  
     packages=find_packages(),
     author="OPEX",
-    long_description=open("README.md").read(),
     author_email="opexclaqz@gmail.com",
     url="https://github.com/opexdeveloper/brewify",  
     keywords=['discord', 'utility', 'socials', 'info', 'api', 'wrapper'],
     description="A Python library for interacting with various APIs including Google Search, IMDb, and Discord.",
-    long_description=open("README.rst").read(),
+    long_description=open("README.md").read(),
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",  

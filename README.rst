@@ -1,11 +1,12 @@
 Brewify
 =======
 
-.. image:: https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/python.svg
-   :alt: Python Icon
-   :align: center
-   :height: 50px  
-   :width: 50px   
+   .. image:: https://images-ext-1.discordapp.net/external/qG41hZHbsmNVc9WSE6aX3oVWi_LP39dQZjxZgdIdFLI/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/1076140187471593492/bfea312390b3b52773f1358457d7261b.png?format=webp&quality=lossless&width=427&height=427
+      :alt: Brew
+      :height: 50px
+      :width: 50px
+
+=======
 
 Brewify is a Python library that provides a simple interface to interact with various APIs, including Google Search, IMDb, Discord, and more. It is designed to be easy to use while allowing you to extend its functionality.
 
@@ -107,17 +108,23 @@ License
 
 This project is licensed under the MIT License - see the `LICENSE` file for details.
 
-.. image:: https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/fastapi.svg
-   :alt: FastAPI Icon
+.. table:: Icons
    :align: center
-   :height: 50px  
-   :width: 50px   
 
-.. image:: https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/pypi.svg
-   :alt: PyPI Icon
-   :align: center
-   :height: 50px  
-   :width: 50px   
+   ======  ======  ======
+   .. image:: https://cdn.simpleicons.org/python/cyan
+      :alt: Python Icon
+      :height: 50px
+      :width: 50px
+   .. image:: https://cdn.simpleicons.org/fastapi/cyan
+      :alt: FastAPI Icon
+      :height: 50px
+      :width: 50px
+   .. image:: https://cdn.simpleicons.org/pypi/cyan
+      :alt: PyPI Icon
+      :height: 50px
+      :width: 50px
+   ======  ======  ======
 
 Acknowledgments
 ---------------

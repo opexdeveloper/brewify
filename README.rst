@@ -38,7 +38,7 @@ To get started, initialize the `Brewify` class with your API key:
 
     from brewify import Brewify
 
-    brewify = Brewify(api_key="YOUR_API_KEY")
+    brewify = Brewify("YOUR_API_KEY")
 
 **Example Methods**
 
@@ -47,42 +47,42 @@ To get started, initialize the `Brewify` class with your API key:
 .. code-block:: python
 
     image_response = brewify.get_google_image(query="cats")
-    print(image_response)
+    print(image_response.link)
 
 *Search Google*
 
 .. code-block:: python
 
     text_response = brewify.search_google(query="Python programming")
-    print(text_response)
+    print(text_response.title, text_response.link, text_response.snippet)
 
 *IMDb Search*
 
 .. code-block:: python
 
     imdb_response = brewify.imdb_search(query="Inception")
-    print(imdb_response)
+    print(imdb_response.plot)
 
 *Discord Guild Search*
 
 .. code-block:: python
 
     guild_response = brewify.discord_guild_search(invite_code="your_invite_code")
-    print(guild_response)
+    print(guild_response.id)
 
 *Sentiment Analysis*
 
 .. code-block:: python
 
     sentiment_response = brewify.sentiment_analysis(sentence="I love Python!")
-    print(sentiment_response)
+    print(sentiment_response.negative, sentiment_response.positive, sentiment_response.neutral)
 
 *Get a Joke*
 
 .. code-block:: python
 
     joke_response = brewify.joke()
-    print(joke_response)
+    print(f"{joke_response.setup} {joke_response.punchline}")
 
 Error Handling
 --------------

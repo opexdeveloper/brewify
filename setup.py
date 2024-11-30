@@ -5,6 +5,7 @@ setup(
     version="0.1.0",  
     packages=find_packages(),
     author="OPEX",
+    long_description=open("README.md").read(),
     author_email="opexclaqz@gmail.com",
     url="https://github.com/opexdeveloper/brewify",  
     keywords=['discord', 'utility', 'socials', 'info', 'api', 'wrapper'],

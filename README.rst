@@ -109,23 +109,30 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 Icons
 -----
 
-.. image:: https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/python.svg
+.. image:: https://cdn.simpleicons.org/python/cyan
    :alt: Python Icon
    :height: 50px
    :width: 50px
    :align: center
+   :target: _blank
 
-.. image:: https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/fastapi.svg
+&nbsp;&nbsp;&nbsp;&nbsp;  
+
+.. image:: https://cdn.simpleicons.org/fastapi/cyan
    :alt: FastAPI Icon
    :height: 50px
    :width: 50px
    :align: center
+   :target: _blank
 
-.. image:: https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/pypi.svg
+&nbsp;&nbsp;&nbsp;&nbsp;  
+
+.. image:: https://cdn.simpleicons.org/pypi/cyan
    :alt: PyPI Icon
    :height: 50px
    :width: 50px
    :align: center
+   :target: _blank
 
 Acknowledgments
 ---------------

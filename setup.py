@@ -6,7 +6,7 @@ setup(
     packages=find_packages(),
     author="OPEX",
     author_email="opexclaqz@gmail.com",
-    url="https://github.com/yourusername/brewify",  
+    url="https://github.com/opexdeveloper/brewify",  
     keywords=['discord', 'utility', 'socials', 'info', 'api', 'wrapper'],
     description="A Python library for interacting with various APIs including Google Search, IMDb, and Discord.",
     long_description=open("README.rst").read(),

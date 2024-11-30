@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="brewify",
-    version="0.1.2",  
+    version="0.1.3",  
     packages=find_packages(),
     author="OPEX",
     author_email="opexclaqz@gmail.com",

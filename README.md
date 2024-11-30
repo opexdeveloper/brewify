@@ -102,15 +102,8 @@ issue.
 ## License
 
 This project is licensed under the MIT License - see the
-[LICENSE]{.title-ref} file for details.
+[LICENSE] file for details.
 
-Dependencies \-\-\-\--
-
-![Python(https://cdn.simpleicons.org/python/cyan)
-
-![FastAPI](https://cdn.simpleicons.org/fastapi/cyan)
-
-![PyPI](https://cdn.simpleicons.org/pypi/cyan)
 ## Acknowledgments
 
 -   Thanks to the developers of the APIs used in this library.

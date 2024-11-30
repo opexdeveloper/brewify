@@ -1,6 +1,6 @@
 import requests
 from abc import ABC
-from .models import *
+from .classes import *
 from fastapi import status
 
 class Brexception(Exception):

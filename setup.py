@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="brewify",
-    version="0.1.0",  # Specify the version of your package
+    version="0.1.0",  
     packages=find_packages(),
     author="OPEX",
     author_email="opexclaqz@gmail.com",
@@ -13,7 +13,7 @@ setup(
     long_description_content_type="text/x-rst",  
     classifiers=[
         "Programming Language :: Python :: 3",
-        "License :: OSI Approved :: MIT License",  # Specify the license
+        "License :: OSI Approved :: MIT License",  
         "Operating System :: OS Independent",
     ],
     python_requires='>=3.6',  

@@ -9,8 +9,7 @@ setup(
     url="https://github.com/yourusername/brewify",  
     keywords=['discord', 'utility', 'socials', 'info', 'api', 'wrapper'],
     description="A Python library for interacting with various APIs including Google Search, IMDb, and Discord.",
-    long_description=open("README.rst").read(),  
-    long_description_content_type="text/x-rst",  
+    long_description=open("README.rst").read(),
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",  

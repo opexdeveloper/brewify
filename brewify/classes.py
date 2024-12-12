@@ -197,3 +197,8 @@ class IPGeolocationResponse(BaseModel):
     country_population: int
     asn: str
     org: str
+
+class Countdown(BaseModel):
+    days: int
+    hours: int
+    minutes: int

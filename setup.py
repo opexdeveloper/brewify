@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="brewify",
-    version="0.1.5",  
+    version="0.1.6",  
     packages=find_packages(),
     author="OPEX",
     author_email="opexclaqz@gmail.com",
@@ -20,7 +20,10 @@ setup(
     install_requires=[  
         "requests",  
         "pydantic",
-        "fastapi"
+        "fastapi",
+        "loguru",
+        "geopy",
+        "country-converter"
 
     ],
 )
